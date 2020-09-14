@@ -1,1 +1,1 @@
-! [Demo] (https://github.com/gtmray/ipl/blob/master/demo.gif)
+# ![Demo](https://media.giphy.com/media/lQJSDGdF0wUMGTQiGu/source.gif)
